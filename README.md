@@ -1,7 +1,7 @@
 ### 안녕하세요! 👋
 
-- 수상경력
-  2023 한이음ICT공모전 입선
+### 수상경력
+  - 2023 한이음ICT 공모전 입선 (23_HF054 / 비정형데이터 비식별처리)
 <!--
 **choismne/choismne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
