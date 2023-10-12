@@ -1,5 +1,7 @@
 ### 안녕하세요! 👋
 
+- 수상경력
+  2023 한이음ICT공모전 입선
 <!--
 **choismne/choismne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
